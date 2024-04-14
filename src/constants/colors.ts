@@ -28,6 +28,13 @@ export const PALETTES_2 = {
   WHITE_GREY: "#C9C9CB",
 };
 
+export const PALETTES_3 = {
+  BACKGROUND_SIDEBAR: "#272727",
+  FONT_COLOR: "#fff",
+  BUTTON_BG: "#EE4950",
+  BACKGROUND: "#171717",
+};
+
 export const COLORS_OF_YEAR = {
   2022: "#6667AB",
   2023: "#BE3455",
